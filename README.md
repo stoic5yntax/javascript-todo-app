@@ -3,8 +3,7 @@ My Awesome Todo App
 This is a simple yet powerful Todo app built with JavaScript and HTML/CSS. It allows you to create, edit, and delete tasks, keeping you organized and on top of your goals.
 
 Getting Started:
-Clone this repository: git clone https://github.com/your-username/your-repo-name.git
-Install any dependencies (if applicable): npm install
+Clone this repository: git clone [https://github.com/your-username/your-repo-name.git](https://github.com/stoic5yntax/javascript-todo-app.git)
 Open the index.html file in your web browser.
 
 Usage:
